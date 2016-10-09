@@ -138,3 +138,13 @@ ul {
 	font:normal 18px Georgia, serif;
 	color:#fa7393;
 }
+.container{
+max-width:840px;
+color:grey;
+font-family:sans-serif;
+margin:0 auto;
+text-align:justify;
+padding-top: 40px;
+padding-left: 20px;
+padding-right: 20px;
+}
