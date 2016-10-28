@@ -16,8 +16,7 @@ p {
 #wrapper {
 	margin:0 auto;
 	width:632px;
-	border-left:1px solid #f0e9eb;
-	border-right:1px solid #f0e9eb;
+	
 }
 
 #header {
@@ -39,7 +38,7 @@ p {
 
 #left-column {
 	width:300px;
-	padding:0 30px 30px;
+	
 	float:left;
 }
 
@@ -51,7 +50,6 @@ p {
 .sidebar {
 	width:218px;
 	margin:0 auto;
-	padding:10px 25px;
 	background:url('http://img404.imageshack.us/img404/3092/shadowh.jpg') no-repeat top;
 }
 
